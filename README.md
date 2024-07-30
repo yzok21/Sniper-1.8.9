@@ -1,4 +1,4 @@
-# Architectury Loom based template for 1.8.9 forge mods
+# Architectury Loom based Mod for 1.8.9
 
 ## Usage
 
